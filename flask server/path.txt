@@ -1,0 +1,5 @@
+### server ###
+python3 ./script/server.py --model_r ./model/model_r.pth --model_c ./model/model_c.pth --port 8891
+
+### delay data ###
+python3 ./script/benchmark.py --local ./"delay data"/local.txt --gcp ./"delay data"/gcp.txt

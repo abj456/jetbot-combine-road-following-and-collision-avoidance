@@ -1,0 +1,33 @@
+nvidia-smi: driver version=460.91.03
+nvidia device: GeForce GTX 1060
+CUDA:10.1
+
+python3 version:3.8.10
+pip3 list:
+certifi             2021.5.30
+charset-normalizer  2.0.4
+click               8.0.1
+Flask               2.0.1
+future              0.18.2
+idna                3.2
+itsdangerous        2.0.1
+Jinja2              3.0.1
+MarkupSafe          2.0.1
+numpy               1.21.1
+nvidia-cublas       11.5.1.101
+nvidia-cuda-nvrtc   11.1.105
+nvidia-cuda-runtime 11.3.58
+nvidia-cudnn        8.2.0.51
+nvidia-pyindex      1.0.9
+nvidia-tensorrt     7.2.3.4
+opencv-python       4.5.3.56
+Pillow              8.3.1
+pip                 21.2.3
+requests            2.26.0
+setuptools          57.4.0
+torch               1.5.0+cu101
+torch2trt           0.3.0
+torchvision         0.6.0+cu101
+urllib3             1.26.6
+Werkzeug            2.0.1
+wheel               0.37.0
